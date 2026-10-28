@@ -8,7 +8,7 @@ Sistema web para consultar a estrutura curricular do curso de **Tecnologia em An
 | Não relacional — documentos | MongoDB |
 | Não relacional — grafo | Neo4j |
 
-Trabalho da disciplina de Banco de Dados (Etapa 2). Os dados foram extraídos do [fluxograma de 2019 do SIGAA](https://sigaa.ufrn.br/sigaa/downloadArquivoPublico?idProducao=6317915&key=300ba6bebacf53bae709c86d9662d6b9).
+Trabalho da disciplina **Fundamentos e Técnicas em Ciência de Dados** (Etapa 2, em equipe). Os dados foram extraídos do [fluxograma de 2019 do SIGAA](https://sigaa.ufrn.br/sigaa/downloadArquivoPublico?idProducao=6317915&key=300ba6bebacf53bae709c86d9662d6b9).
 
 ## O que o sistema faz
 
