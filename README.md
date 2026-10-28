@@ -37,6 +37,10 @@ python -m uvicorn app.main:app --port 8000
 
 Abra http://localhost:8000. Para parar os bancos: `docker compose stop`.
 
+## Notebook
+
+[notebooks/estrutura_curricular.ipynb](notebooks/estrutura_curricular.ipynb) usa o mesmo código do sistema para carregar os dados, mostrar como o mesmo componente fica em cada modelo, rodar a mesma consulta nos três bancos (conferindo que os resultados são idênticos) e fazer um benchmark com gráfico. Já está salvo com as saídas, então dá para ler direto no GitHub. Para reexecutar: suba os bancos e use `python -m pip install nbformat nbconvert ipykernel pandas matplotlib`.
+
 ## Os três modelos
 
 Os diagramas e a explicação de cada modelo estão em [docs/modelos_logicos.md](docs/modelos_logicos.md). Em resumo:
